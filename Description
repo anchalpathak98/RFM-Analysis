@@ -1,0 +1,12 @@
+# RFM-Analysis
+#RFM that is recency frequency value is a marketing analytics tool which is used to identify and organisation best customer #by using certain measures. #The RFM model based three quantitittative models : #Recency - how a customer recency purchased #Frequency- how often a customer recently purchased #Monitary value : how much money a customer spend on a purchase.
+#RFM analysis numerically ranks a customer in each of these three categories. the lower the number the better is the result.
+#the best customer put receiver top score in every category. so RFM score is 111. basically means the customer
+#who have got the product in most recent times the most often and generated the most revenue.
+#These are our best customers so the marketing stategy can be to focus on loyalty program and new products introduction
+#these customer proven to have a higher willingness to pay. so there's no need to use discounting prices to generate more sales.
+#and RFM score's recency is 414. that means 4 is not good. frequency is 1 means there is lot of product of 1.
+#RFM score 414 means that the customer who buy more number of times of your store.
+#The marketing strategy can be to design loyality programs like rewarding these customer pre shipping.
+#An RFM score of 441 are the customers who have more revenue of their organization.these customes have high willingnes to pay
+#inshort RFM analysis provides the lubrices and matrices to score each customer and identify high return on investment segment
